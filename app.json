@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
+  "name": "Saqib-MD",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
   "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["Saqib-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "Saqib-MD"
     }, 
       
     "PREFIX": {
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "value": "*🪩SEEN YOUR STATUS Saqib-MD🪩*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "MR-Saqib"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "Saqib-MD"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Saqib*"
     },
 
       "DELETE_LINKS": {
